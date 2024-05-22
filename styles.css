@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+.holder div:nth-child(1){
+
+}
+.holder div:nth-child(2){}
+.holder div:nth-child(3){}
